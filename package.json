@@ -1,0 +1,11 @@
+{
+  "name": "unscramble-word",
+  "version": "1.0.0",
+  "description": "Automatically find scrambled words",
+  "main": "index.js",
+  "author": "velddev",
+  "license": "ISC",
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0"
+  }
+}
